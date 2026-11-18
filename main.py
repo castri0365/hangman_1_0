@@ -3,7 +3,7 @@ from palabras import palabras
 from monigote import dibujos
 
 while True:
-    palabra = random.choice(palabras)   
+    palabra = random.choice(palabras) .upper()   
     oculta = ["_"] * len(palabra)       
     usadas = []                         
     vidas = 6
