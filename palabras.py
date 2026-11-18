@@ -1,0 +1,1 @@
+palabras = ["python", "codigo", "teclado", "pantalla", "monitor"]
