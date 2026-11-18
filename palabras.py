@@ -1,1 +1,1 @@
-palabras = ["python", "codigo", "teclado", "pantalla", "monitor"]
+palabras = ["PYTHON", "CODIGO", "TECLADO", "PANTALLA", "MONITOR"]
